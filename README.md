@@ -83,3 +83,5 @@ MIT — do what you want, just don't blame the cat.
 ---
 
 ## ❤️ Made with love, yarn, and AI
+
+## 💵 Help fund this project to pay for Twilio and OpenAI! If I hit ~$20 a month, I will make my Text-a-Cat number public!
